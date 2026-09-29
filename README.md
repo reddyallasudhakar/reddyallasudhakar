@@ -16,6 +16,14 @@ I'm building [fairClaims](https://fairclaims.policygaido.com), where a team of A
 - 🧪 Evals: turning real case reviews into eval specs for LLM-generated arguments
 - ☁️ Stack: Typescript, Node, React, LangGraph, LangSmith, Supabase
 
+### 🚀 Core Repositories @ policygaido
+
+| Project | Description | Stack |
+| :--- | :--- | :--- |
+| 🛠️ [**policygaido_backend**](https://github.com/policygaido/policygaido_backend) | Core API, database integrations, and business logic | Python, FastAPI, PostgreSQL |
+| 📑 [**policygaido_claims**](https://github.com/policygaido/policygaido_claims) | AI Agent workflows for insurance claim recovery & document analysis | Python, LangChain / LlamaIndex, OpenAI |
+| 🎙️ [**policyGaidoAI**](https://github.com/policygaido/policyGaidoAI) | Voice & conversational AI agent framework for real-time guidance | Python, LiveKit, LLMs |
+
 ## About Me
 
 - 🎯 **Co-Founder** at [Policygaido](https://policygaido.com), building AI-native tools for claims recovery and commission-neutral insurance advisory.
