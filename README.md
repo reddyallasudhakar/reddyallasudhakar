@@ -22,7 +22,7 @@ I'm building [fairClaims](https://fairclaims.policygaido.com), where a team of A
 
 - 🏢 Previously in strategy and product at **Prudential** (founding team) and **BCG**.
 
-- 🎓 **IIT Madras** and **IIM Calcutta**. Part of **Antler's AI Residency (AIR2)**.
+- 🎓 **IIT Madras** and **IIM Calcutta**. Part of **Antler's AI Residency (AIR2)**. Secured 1M+ credits and founder grants as part of residency 
 
 - 💡 Interested in consumer AI 
 
