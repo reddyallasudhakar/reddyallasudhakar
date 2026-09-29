@@ -18,11 +18,9 @@ I'm building [fairClaims](https://fairclaims.policygaido.com), where a team of A
 
 ### 🚀 Core Repositories @ policygaido
 
-| Project | Description | Stack |
-| :--- | :--- | :--- |
 | 🛠️ [**policygaido_backend**](https://github.com/policygaido/policygaido_backend) 
 | 📑 [**policygaido_claims**](https://github.com/policygaido/policygaido_claims) 
-| 🎙️ [**policyGaidoAI**](https://github.com/policygaido/policyGaidoAI) | Voice & conversational AI agents
+| 🎙️ [**policyGaidoAI**](https://github.com/policygaido/policyGaidoAI) 
 
 ## About Me
 
