@@ -20,9 +20,9 @@ I'm building [fairClaims](https://fairclaims.policygaido.com), where a team of A
 
 | Project | Description | Stack |
 | :--- | :--- | :--- |
-| 🛠️ [**policygaido_backend**](https://github.com/policygaido/policygaido_backend) | Core API, database integrations, and business logic | Python, FastAPI, PostgreSQL |
-| 📑 [**policygaido_claims**](https://github.com/policygaido/policygaido_claims) | AI Agent workflows for insurance claim recovery & document analysis | Python, LangChain / LlamaIndex, OpenAI |
-| 🎙️ [**policyGaidoAI**](https://github.com/policygaido/policyGaidoAI) | Voice & conversational AI agent framework for real-time guidance | Python, LiveKit, LLMs |
+| 🛠️ [**policygaido_backend**](https://github.com/policygaido/policygaido_backend) 
+| 📑 [**policygaido_claims**](https://github.com/policygaido/policygaido_claims) 
+| 🎙️ [**policyGaidoAI**](https://github.com/policygaido/policyGaidoAI) | Voice & conversational AI agents
 
 ## About Me
 
